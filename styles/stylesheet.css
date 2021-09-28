@@ -63,7 +63,28 @@ li {
     padding: 0;
     overflow: hidden;
     border: 1px solid #e7e7e7;
-    background-color: #f3f3f3;
+    background-color: #c9e0f3;
+
+}
+
+#para{
+
+  margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 5px solid #adcee9;
+    background-color: #acb8d8;
+    color: rgb(0, 0, 0);
+
+}
+
+ul.list{
+  list-style-type: circle;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(238, 231, 231);
 
 }
 
