@@ -62,8 +62,8 @@ li {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 1px solid #e7e7e7;
-    background-color: #dfdddd;
+    border: 10px solid #b3adad;
+    background-color: #afacac;
 
 }
 
@@ -72,8 +72,8 @@ li {
   margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 5px solid #adcee9;
-    background-color: #acb8d8;
+    border: 5px solid #b3adad;
+    background-color: #b1acac;
     color: rgb(0, 0, 0);
 
 }
