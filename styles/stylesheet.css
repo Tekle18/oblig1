@@ -63,7 +63,7 @@ li {
     padding: 0;
     overflow: hidden;
     border: 1px solid #e7e7e7;
-    background-color: #c9e0f3;
+    background-color: #dfdddd;
 
 }
 
@@ -78,16 +78,31 @@ li {
 
 }
 
-ul.list{
-  list-style-type: circle;
+#list  {
+  display: block;
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(238, 231, 231);
-  display: block;
+  background-color: rgb(255, 255, 255);
 
 }
+
+
+
+
+#head {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #dfdddd;
+}
+
+
+
+
+
 
 
 
