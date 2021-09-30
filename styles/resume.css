@@ -4,6 +4,27 @@
     box-sizing: border-box;
 }
 
+#header {
+  background-color: #333;
+  color: rgb(255, 255, 255);
+  font-size: 1.1em;
+  
+}
+
+
+#header ul > li {
+  display: inline-block;
+}
+
+#header a {
+  color: inherit;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+
 h1 {
     background-color: rgb(238, 231, 231);
   }
