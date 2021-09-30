@@ -78,13 +78,13 @@ li {
 
 }
 
-#list  {
-  display: block;
+ul.list  {
+  display: auto;
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(255, 255, 255);
+
 
 }
 
