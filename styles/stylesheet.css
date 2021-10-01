@@ -59,45 +59,31 @@ li {
   
 #des{
    
-    margin: 0;
+    margin: 0px;
     padding: 0;
     overflow: hidden;
-    border: 10px solid #b3adad;
-    background-color: #afacac;
+    border: 0px solid #ffffff;
+    background-color: #ffffff;
+    text-align: center;
+    font-family:  Arial, Helvetica, sans-serif;
+    color: #777;
 
 }
 
 #para{
 
-  margin: 0;
+  margin-top: 1cm;
     padding: 0;
     overflow: hidden;
-    border: 5px solid #b3adad;
-    background-color: #b1acac;
+    border: 0px solid #ffffff;
+    background-color: #ffffff;
     color: rgb(0, 0, 0);
+    font-size: large;
+    font-family:  Arial, Helvetica, sans-serif;
+    text-align: justify;
 
 }
 
-ul.list  {
-  display: auto;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-
-
-}
-
-
-
-
-#head {
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  border: 1px solid #e7e7e7;
-  background-color: #dfdddd;
-}
 
 
 
