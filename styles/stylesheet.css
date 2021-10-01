@@ -4,13 +4,6 @@ color: black;
 font-size: 1.1em;
 }
 
-.header {
-    background-color: #f1f1f1;
-    padding: 20px;
-    text-align: center;
-
-}
-
 ul {
     list-style-type: none;
     margin: 0;
